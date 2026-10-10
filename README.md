@@ -1,17 +1,25 @@
-## Hello, i'm alvi
+# Hello, I'm Alvi.
 
-my hobbies:
-i like to play games,
-i like to glaze myself like a donut,
-nothing else.
+Just a guy who plays games and has an unnecessarily high opinion of himself.
 
-![My GIF](black-guy-tweaking-meme.gif)
+### Hobbies
+- Playing games
+- Glazing myself like a donut
+- That's pretty much it.
 
-nickname:
-alvis pressley,
-alvida(more common),
-alvi sama.
+<p align="center">
+  <img src="./black-guy-tweaking-meme.gif" width="300" alt="Meme GIF">
+</p>
 
-## That's it, thank you for checking my profile.
+### Also known as
+- **Alvis Pressley**
+- **Alvida** — the usual one
+- **Alvi-sama**
 
-![My GIF](among-us-amogus.gif)
+---
+
+That's it. Thanks for stopping by.
+
+<p align="center">
+  <img src="./among-us-amogus.gif" width="250" alt="Among Us GIF">
+</p>
