@@ -13,3 +13,5 @@ alvida(more common)
 alvi sama
 
 ## That's it, thank you for checking.
+
+![My GIF](among-us-amogus.gif)
